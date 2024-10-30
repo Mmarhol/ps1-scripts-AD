@@ -1,0 +1,2 @@
+firstname,lastname,username,department,password,loginname,securityGroup,ou
+test,testname,t.test,Stagiaire,tqUkGUIUf0G3P7g,t.testlogin,GG_Stagiaire_Global,"OU=Stagiaire,DC=AXEPLANE,DC=LOC"
